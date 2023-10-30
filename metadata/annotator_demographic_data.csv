@@ -1,68 +1,68 @@
-,AnnotatorId,Gender Identification,Age,Race/Ethnicity,Religion,Education,Visual Arts Experience,Profession
-0,annotator071,Woman,45+,Asian,Atheist/Agnostic,Bachelors,None,"Business, Management, and Administration"
-1,annotator051,Man,45+,White/Caucasian,Catholicism/Christianity,Associates/Trade,Artistic Interests,Communications and Information Systems
-2,annotator052,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,None,"Business, Management, and Administration"
-3,annotator032,Binary,22-30,White/Caucasian,Catholicism/Christianity,High School,3-4 years,"Arts, Culture, and Entertainment"
-4,annotator003,Woman,22-30,White/Caucasian,Judaism,High School,None,Other
-5,annotator075,Man,30-45,Latino/Hispanic,Atheist/Agnostic,High School,Hobby,Other
-6,annotator058,Woman,30-45,White/Caucasian,Catholicism/Christianity,Associates/Trade,Artistic Interests,"Business, Management, and Administration"
-7,annotator022,Woman,45+,White/Caucasian,Catholicism/Christianity,High School,None,Other
-8,annotator074,Man,30-45,White/Caucasian,Atheist/Agnostic,High School,None,Other
-9,annotator046,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,"Arts, Culture, and Entertainment"
-10,annotator036,Woman,45+,White/Caucasian,Atheist/Agnostic,Masters,None,"Education, Law, Government, and Social Services"
-11,annotator025,Woman,45+,White/Caucasian,Atheist/Agnostic,Bachelors,1-2 years,"Business, Management, and Administration"
-12,annotator006,Transgender,22-30,White/Caucasian,Other,High School,3-4 years,"Health, Engineering, Science, and Technology"
-13,annotator009,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,1-2 years,"Arts, Culture, and Entertainment"
-14,annotator070,Woman,30-45,Latino/Hispanic,Catholicism/Christianity,High School,None,"Business, Management, and Administration"
-15,annotator069,Man,45+,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,Communications and Information Systems
-16,annotator054,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,None,"Education, Law, Government, and Social Services"
-17,annotator082,Transgender,22-30,White/Caucasian,Other,Associates/Trade,Hobby,"Education, Law, Government, and Social Services"
-18,annotator063,Man,30-45,White/Caucasian,Catholicism/Christianity,High School,None,Other
-19,annotator060,Woman,30-45,White/Caucasian,Catholicism/Christianity,Masters,1-2 years,Communications and Information Systems
-20,annotator080,Woman,22-30,Asian,Catholicism/Christianity,Masters,Artistic Interests,"Health, Engineering, Science, and Technology"
-21,annotator017,Woman,30-45,White/Caucasian,Atheist/Agnostic,Associates/Trade,None,"Health, Engineering, Science, and Technology"
-22,annotator084,Transgender,22-30,Native American,Atheist/Agnostic,Bachelors,Hobby,"Arts, Culture, and Entertainment"
-23,annotator020,Woman,22-30,White/Caucasian,Catholicism/Christianity,High School,None,"Health, Engineering, Science, and Technology"
-24,annotator089,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,5+ years,"Health, Engineering, Science, and Technology"
-25,annotator062,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,Artistic Interests,"Business, Management, and Administration"
-26,annotator023,Woman,30-45,White/Caucasian,Catholicism/Christianity,Associates/Trade,None,Communications and Information Systems
-27,annotator091,Man,30-45,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,"Arts, Culture, and Entertainment"
-28,annotator007,Transgender,22-30,White/Caucasian,Other,High School,3-4 years,"Arts, Culture, and Entertainment"
-29,annotator043,Transgender,22-30,White/Caucasian,Other,High School,None,"Business, Management, and Administration"
-30,annotator073,Transgender,30-45,White/Caucasian,Atheist/Agnostic,High School,1-2 years,Communications and Information Systems
-31,annotator057,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,5+ years,Communications and Information Systems
-32,annotator001,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,None,"Health, Engineering, Science, and Technology"
-33,annotator018,Woman,45+,White/Caucasian,Atheist/Agnostic,Bachelors,None,"Business, Management, and Administration"
-34,annotator067,Woman,45+,White/Caucasian,Catholicism/Christianity,Masters,None,"Business, Management, and Administration"
-35,annotator087,Man,22-30,White/Caucasian,Atheist/Agnostic,Bachelors,1-2 years,"Health, Engineering, Science, and Technology"
-36,annotator065,Man,30-45,Latino/Hispanic,Catholicism/Christianity,Bachelors,Hobby,"Health, Engineering, Science, and Technology"
-37,annotator050,Man,30-45,White/Caucasian,Atheist/Agnostic,High School,1-2 years,Other
-38,annotator024,Binary,22-30,Asian,Atheist/Agnostic,Bachelors,Hobby,"Health, Engineering, Science, and Technology"
-39,annotator072,Man,22-30,White/Caucasian,Atheist/Agnostic,High School,None,"Business, Management, and Administration"
-40,annotator002,Man,45+,White/Caucasian,Catholicism/Christianity,Bachelors,None,"Business, Management, and Administration"
-41,annotator004,Man,22-30,Asian,Islam,Bachelors,1-2 years,"Arts, Culture, and Entertainment"
-42,annotator040,Woman,30-45,White/Caucasian,Atheist/Agnostic,Associates/Trade,Artistic Interests,"Business, Management, and Administration"
-43,annotator021,Woman,30-45,African-American/Black,Catholicism/Christianity,High School,3-4 years,"Arts, Culture, and Entertainment"
-44,annotator086,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,"Arts, Culture, and Entertainment"
-45,annotator088,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,None,Communications and Information Systems
-46,annotator077,Woman,30-45,White/Caucasian,Catholicism/Christianity,High School,None,"Health, Engineering, Science, and Technology"
-47,annotator068,Woman,30-45,White/Caucasian,Atheist/Agnostic,High School,3-4 years,Other
-48,annotator076,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,Artistic Interests,"Business, Management, and Administration"
-49,annotator045,Woman,45+,White/Caucasian,Catholicism/Christianity,High School,None,"Business, Management, and Administration"
-50,annotator042,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,None,Communications and Information Systems
-51,annotator000,Man,30-45,Asian,Buddhism,Bachelors,None,"Health, Engineering, Science, and Technology"
-52,annotator053,Woman,45+,White/Caucasian,Atheist/Agnostic,Associates/Trade,Artistic Interests,"Health, Engineering, Science, and Technology"
-53,annotator047,Man,30-45,White/Caucasian,Atheist/Agnostic,High School,None,"Arts, Culture, and Entertainment"
-54,annotator034,Woman,30-45,White/Caucasian,Atheist/Agnostic,Masters,1-2 years,"Education, Law, Government, and Social Services"
-55,annotator028,Woman,22-30,Asian,Catholicism/Christianity,Bachelors,Hobby,Communications and Information Systems
-56,annotator015,Woman,22-30,Asian,Hinduism,Masters,None,"Health, Engineering, Science, and Technology"
-57,annotator033,Man,22-30,Asian,Catholicism/Christianity,Associates/Trade,1-2 years,"Arts, Culture, and Entertainment"
-58,annotator037,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,Artistic Interests,Other
-59,annotator038,Woman,22-30,Asian,Catholicism/Christianity,Bachelors,Artistic Interests,Other
-60,annotator044,Man,22-30,White/Caucasian,Atheist/Agnostic,High School,None,"Arts, Culture, and Entertainment"
-61,annotator030,Woman,22-30,White/Caucasian,Atheist/Agnostic,Masters,Hobby,"Health, Engineering, Science, and Technology"
-62,annotator064,Man,22-30,Asian,Islam,Masters,Artistic Interests,"Arts, Culture, and Entertainment"
-63,annotator013,Transgender,18-22,White/Caucasian,Other,Bachelors,5+ years,"Arts, Culture, and Entertainment"
-64,annotator078,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,Hobby,"Business, Management, and Administration"
-65,annotator029,Woman,22-30,Asian,Catholicism/Christianity,Bachelors,None,Other
-66,annotator010,Woman,30-45,Asian,Catholicism/Christianity,Bachelors,Hobby,"Business, Management, and Administration"
+AnnotatorId,Gender Identification,Age,Race/Ethnicity,Religion,Education,Visual Arts Experience,Profession
+annotator019,Woman,45+,Asian,Atheist/Agnostic,Bachelors,None,"Business, Management, and Administration"
+annotator031,Man,45+,White/Caucasian,Catholicism/Christianity,Associates/Trade,Artistic Interests,Communications and Information Systems
+annotator068,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,None,"Business, Management, and Administration"
+annotator090,Binary,22-30,White/Caucasian,Catholicism/Christianity,High School,3-4 years,"Arts, Culture, and Entertainment"
+annotator050,Woman,22-30,White/Caucasian,Judaism,High School,None,Other
+annotator084,Man,30-45,Latino/Hispanic,Atheist/Agnostic,High School,Hobby,Other
+annotator052,Woman,30-45,White/Caucasian,Catholicism/Christianity,Associates/Trade,Artistic Interests,"Business, Management, and Administration"
+annotator012,Woman,45+,White/Caucasian,Catholicism/Christianity,High School,None,Other
+annotator065,Man,30-45,White/Caucasian,Atheist/Agnostic,High School,None,Other
+annotator001,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,"Arts, Culture, and Entertainment"
+annotator027,Woman,45+,White/Caucasian,Atheist/Agnostic,Masters,None,"Education, Law, Government, and Social Services"
+annotator017,Woman,45+,White/Caucasian,Atheist/Agnostic,Bachelors,1-2 years,"Business, Management, and Administration"
+annotator030,Transgender,22-30,White/Caucasian,Other,High School,3-4 years,"Health, Engineering, Science, and Technology"
+annotator014,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,1-2 years,"Arts, Culture, and Entertainment"
+annotator063,Woman,30-45,Latino/Hispanic,Catholicism/Christianity,High School,None,"Business, Management, and Administration"
+annotator045,Man,45+,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,Communications and Information Systems
+annotator073,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,None,"Education, Law, Government, and Social Services"
+annotator020,Transgender,22-30,White/Caucasian,Other,Associates/Trade,Hobby,"Education, Law, Government, and Social Services"
+annotator041,Man,30-45,White/Caucasian,Catholicism/Christianity,High School,None,Other
+annotator062,Woman,30-45,White/Caucasian,Catholicism/Christianity,Masters,1-2 years,Communications and Information Systems
+annotator011,Woman,22-30,Asian,Catholicism/Christianity,Masters,Artistic Interests,"Health, Engineering, Science, and Technology"
+annotator086,Woman,30-45,White/Caucasian,Atheist/Agnostic,Associates/Trade,None,"Health, Engineering, Science, and Technology"
+annotator026,Transgender,22-30,Native American,Atheist/Agnostic,Bachelors,Hobby,"Arts, Culture, and Entertainment"
+annotator072,Woman,22-30,White/Caucasian,Catholicism/Christianity,High School,None,"Health, Engineering, Science, and Technology"
+annotator057,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,5+ years,"Health, Engineering, Science, and Technology"
+annotator076,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,Artistic Interests,"Business, Management, and Administration"
+annotator075,Woman,30-45,White/Caucasian,Catholicism/Christianity,Associates/Trade,None,Communications and Information Systems
+annotator089,Man,30-45,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,"Arts, Culture, and Entertainment"
+annotator058,Transgender,22-30,White/Caucasian,Other,High School,3-4 years,"Arts, Culture, and Entertainment"
+annotator032,Transgender,22-30,White/Caucasian,Other,High School,None,"Business, Management, and Administration"
+annotator074,Transgender,30-45,White/Caucasian,Atheist/Agnostic,High School,1-2 years,Communications and Information Systems
+annotator002,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,5+ years,Communications and Information Systems
+annotator083,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,None,"Health, Engineering, Science, and Technology"
+annotator025,Woman,45+,White/Caucasian,Atheist/Agnostic,Bachelors,None,"Business, Management, and Administration"
+annotator071,Woman,45+,White/Caucasian,Catholicism/Christianity,Masters,None,"Business, Management, and Administration"
+annotator055,Man,22-30,White/Caucasian,Atheist/Agnostic,Bachelors,1-2 years,"Health, Engineering, Science, and Technology"
+annotator040,Man,30-45,Latino/Hispanic,Catholicism/Christianity,Bachelors,Hobby,"Health, Engineering, Science, and Technology"
+annotator044,Man,30-45,White/Caucasian,Atheist/Agnostic,High School,1-2 years,Other
+annotator013,Binary,22-30,Asian,Atheist/Agnostic,Bachelors,Hobby,"Health, Engineering, Science, and Technology"
+annotator003,Man,22-30,White/Caucasian,Atheist/Agnostic,High School,None,"Business, Management, and Administration"
+annotator022,Man,45+,White/Caucasian,Catholicism/Christianity,Bachelors,None,"Business, Management, and Administration"
+annotator036,Man,22-30,Asian,Islam,Bachelors,1-2 years,"Arts, Culture, and Entertainment"
+annotator066,Woman,30-45,White/Caucasian,Atheist/Agnostic,Associates/Trade,Artistic Interests,"Business, Management, and Administration"
+annotator042,Woman,30-45,African-American/Black,Catholicism/Christianity,High School,3-4 years,"Arts, Culture, and Entertainment"
+annotator021,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,3-4 years,"Arts, Culture, and Entertainment"
+annotator004,Woman,22-30,White/Caucasian,Catholicism/Christianity,Masters,None,Communications and Information Systems
+annotator016,Woman,30-45,White/Caucasian,Catholicism/Christianity,High School,None,"Health, Engineering, Science, and Technology"
+annotator034,Woman,30-45,White/Caucasian,Atheist/Agnostic,High School,3-4 years,Other
+annotator018,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,Artistic Interests,"Business, Management, and Administration"
+annotator047,Woman,45+,White/Caucasian,Catholicism/Christianity,High School,None,"Business, Management, and Administration"
+annotator060,Woman,30-45,White/Caucasian,Atheist/Agnostic,Bachelors,None,Communications and Information Systems
+annotator082,Man,30-45,Asian,Buddhism,Bachelors,None,"Health, Engineering, Science, and Technology"
+annotator059,Woman,45+,White/Caucasian,Atheist/Agnostic,Associates/Trade,Artistic Interests,"Health, Engineering, Science, and Technology"
+annotator081,Man,30-45,White/Caucasian,Atheist/Agnostic,High School,None,"Arts, Culture, and Entertainment"
+annotator005,Woman,30-45,White/Caucasian,Atheist/Agnostic,Masters,1-2 years,"Education, Law, Government, and Social Services"
+annotator070,Woman,22-30,Asian,Catholicism/Christianity,Bachelors,Hobby,Communications and Information Systems
+annotator000,Woman,22-30,Asian,Hinduism,Masters,None,"Health, Engineering, Science, and Technology"
+annotator033,Man,22-30,Asian,Catholicism/Christianity,Associates/Trade,1-2 years,"Arts, Culture, and Entertainment"
+annotator061,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,Artistic Interests,Other
+annotator028,Woman,22-30,Asian,Catholicism/Christianity,Bachelors,Artistic Interests,Other
+annotator046,Man,22-30,White/Caucasian,Atheist/Agnostic,High School,None,"Arts, Culture, and Entertainment"
+annotator056,Woman,22-30,White/Caucasian,Atheist/Agnostic,Masters,Hobby,"Health, Engineering, Science, and Technology"
+annotator087,Man,22-30,Asian,Islam,Masters,Artistic Interests,"Arts, Culture, and Entertainment"
+annotator010,Transgender,18-22,White/Caucasian,Other,Bachelors,5+ years,"Arts, Culture, and Entertainment"
+annotator029,Woman,30-45,White/Caucasian,Catholicism/Christianity,Bachelors,Hobby,"Business, Management, and Administration"
+annotator053,Woman,22-30,Asian,Catholicism/Christianity,Bachelors,None,Other
+annotator054,Woman,30-45,Asian,Catholicism/Christianity,Bachelors,Hobby,"Business, Management, and Administration"
