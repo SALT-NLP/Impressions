@@ -30,5 +30,6 @@ for imgid in tqdm(list(data.ImgId), total=len(data)):
     img_data = requests.get(url).content
     img = Image.open(io.BytesIO(img_data))
     img_path = os.path.join(DEST_DIR, imgid + ".png")
+    img.save(img_path)
 
 print(f"\nDownload complete. All images saved to {DEST_DIR}.\n")
