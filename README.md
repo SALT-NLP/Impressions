@@ -27,11 +27,13 @@ This work is licensed under a
     />
 <p>
 
+## Overview
+
 The **Impressions dataset** is a multimodal benchmark that consists of 4,300 unique annotations and over 1,440 image-caption pairs from the photography domain. Each annotation explores (1) the aesthetic impactfulness of a photograph, (2) image descriptions in which pragmatic inferences are welcome, (3) emotions/thoughts/beliefs that the photograph may inspire, and (4) the aesthetic elements that elicited the expressed impression.
 
 EMNLP 2023 | [Paper](https://arxiv.org/abs/2310.17887)
 
-### Data Locations
+## Data Locations
 
 - **metadata**
     - **all_image_annotations.csv** : All annotations on image impact, description, perception, and aesthetic evaluation.
@@ -40,7 +42,7 @@ EMNLP 2023 | [Paper](https://arxiv.org/abs/2310.17887)
     - **annotator_personality_data.csv** : Annotator answers to a compact version of the Big 5 Personality test.
     - **annotator_demographic_data.csv** : Annotator demographic information.
 
-### Impressions Media
+## Impressions Media
 
 To download all images of the Impressions dataset, please run:
 
