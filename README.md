@@ -19,14 +19,6 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-<p align="center">
-    <img src="figures/under_const_media.png" 
-        alt="Under construction sign." 
-        style="display: block; margin: 0 auto"
-        height="80"
-    />
-<p>
-
 ## Overview
 
 The **Impressions dataset** is a multimodal benchmark that consists of 4,300 unique annotations and over 1,440 image-caption pairs from the photography domain. Each annotation explores (1) the aesthetic impactfulness of a photograph, (2) image descriptions in which pragmatic inferences are welcome, (3) emotions/thoughts/beliefs that the photograph may inspire, and (4) the aesthetic elements that elicited the expressed impression.
